@@ -6,6 +6,8 @@ resources/
 # OS junk
 .DS_Store
 
+*.ai
+
 .Rproj.user
 .Rhistory
 .RData
