@@ -11,7 +11,7 @@ header_logo: "images/MartinaPortrait.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Martina Villa"
-header_subheadline: "(Quasi) <b> PhD </b>"
+header_subheadline: "<b> PhD </b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
