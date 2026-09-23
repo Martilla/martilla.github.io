@@ -3,7 +3,8 @@ title: "Ciao! I'm Martina (she/her)"
 weight: 1
 ---
 
-I'm a PhD candidate in Developmental Psychology at the University of Connecticut.
+I'm a Post-Doctoral Researcher at Western Ontario University. I got a
+PhD  in Developmental Psychology from the University of Connecticut in 2026.
 
 My research focuses on reading (dis)abilities, using an interdisciplinary approach to study how our genes and environment interplay to shape our neural and reading skills development.
 
