@@ -3,7 +3,7 @@ title: "Ciao! Sono Martina"
 weight: 1
 ---
 
-Sono una dottoranda in Psicologia dello Sviluppo presso l'Università del Connecticut.
+Sono una Post-Doc presso la Western University in Ontario. Dal 2026 ho un PhD in Psicologia dello Sviluppo ottenuto presso l'Università del Connecticut.
 
 La mia ricerca si concentra sulle difficoltà di lettura, utilizzando un approccio interdisciplinare per studiare come i nostri geni e l'ambiente interagiscono per plasmare lo sviluppo neurale e delle abilità lettura.
 
